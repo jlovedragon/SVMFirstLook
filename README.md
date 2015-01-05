@@ -1,6 +1,7 @@
 #SVM
 
 using scikit-learn do execrises about SVM
+
 environment:Ubuntu14.04 sublime2 python2.7.6
 
 ##  Classification contrast :
